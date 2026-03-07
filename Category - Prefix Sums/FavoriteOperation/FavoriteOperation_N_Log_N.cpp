@@ -35,10 +35,6 @@ void solve() {
         ll sumUpper = prefix[i + N] - prefix[upper];
 
         answer = std::min(answer, sumUpper - sumLower);
-
-        // int first = a[0];
-        // a.erase(a.begin());
-        // a.push_back(first + M);
     }
 
     std::cout << answer << "\n";
