@@ -2,6 +2,7 @@
 
 | Problem | Source | Difficulty | Solution |
 |--------|--------|--------|--------|
+| AlternativeVote | [HackerRank](https://www.hackerrank.com/contests/pacise-2026/challenges/alternative-vote) | N/A | [Click for Solution](AlternativeVote/AlternativeVote.cpp) |
 | Associative Array | [YS](https://judge.yosupo.jp/problem/associative_array) | Bronze - Easy (USACO) | [Click for Solution](AssociativeArray/AssociativeArray.cpp) |
 | Candy Store | [Kattis](https://open.kattis.com/problems/candystore) | Easy (Kattis) | [Click for Solution](CandyStore/CandyStore.cpp) |
 | Don't Be Last! | [USACO](https://usaco.org/index.php?page=viewproblem2&cpid=687) | Bronze - Normal | [Click for Solution](DontBeLast/DontBeLast.cpp) |
