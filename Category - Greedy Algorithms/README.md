@@ -9,3 +9,4 @@
 | Photoshoot | [USACO](https://usaco.org/index.php?page=viewproblem2&cpid=1227) | Bronze - Hard | [Click for Solution](Photoshoot/Photoshoot.cpp) |
 | Studying Algorithms | [CF](https://codeforces.com/gym/102951/problem/B) | Silver - Very Easy (USACO) | [Click for Solution](StudyingAlgorithms/StudyingAlgorithms.cpp) |
 | Tasks & Deadlines | [CSES](https://cses.fi/problemset/task/1630) | Silver - Easy (USACO) | [Click for Solution](TaskDeadlines/TaskDeadlines.cpp) |
+| Watching Mooloo | [USACO](https://usaco.org/index.php?page=viewproblem2&cpid=1301) | Bronze - Easy (USACO) | [Click for Solution](WatchingMooloo/WatchingMooloo.cpp) |
